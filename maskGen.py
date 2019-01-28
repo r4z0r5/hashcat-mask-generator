@@ -1,10 +1,10 @@
+# -*- coding: utf-8 -*-
 '''
 Hashcat mask generator made by Daniel_YC
 Quick and dirty but it should work
 
 Use for fun an profit
 '''
-# -*- coding: utf-8 -*-
 
 
 filename = '_output'
