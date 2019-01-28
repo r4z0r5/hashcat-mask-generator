@@ -4,6 +4,8 @@ Quick and dirty but it should work
 
 Use for fun an profit
 '''
+# -*- coding: utf-8 -*-
+
 
 filename = '_output'
 words = []
